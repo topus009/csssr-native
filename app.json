@@ -20,7 +20,12 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "com.topus009.csssrnative",
+      "versionCode": 2
+    },
     "ios": {
+      "bundleIdentifier": "com.topus009.csssrnative",
       "supportsTablet": true
     }
   }
