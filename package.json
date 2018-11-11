@@ -8,6 +8,10 @@
     "ios": "expo start --ios",
     "eject": "expo eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topus009/csssr-native.git"
+  },
   "dependencies": {
     "expo": "^31.0.2",
     "lodash": "^4.17.11",
